@@ -5,7 +5,7 @@ const request = require('request')
 
 let remmer=[]
 let jsonArray=[]
-app.get('/',(req,res)=>{
+app.get('/getTimeStories',(req,res)=>{
 
    let value
    
