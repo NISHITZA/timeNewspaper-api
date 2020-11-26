@@ -8,6 +8,3 @@ Api to get the top 5 stories of time.com
 - `npm run dev`
 - Go to `http://localhost:5000/getTimeStories` to get the list of stories.
 
-### Dependency 
-- Express
-- request
